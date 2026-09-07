@@ -1,4 +1,5 @@
 Nombre: jhosmar ventura 
+edad: 20
 Carrera: Ingeniería de sistemas 
 Mencion: gestión de la informacion
 Semestre: II/2026 
